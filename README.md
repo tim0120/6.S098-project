@@ -1,5 +1,7 @@
 # 6.S098-project
 
+Course Project for 6.S098 class taught by Theo Diamandis
+
 Ideas:
 - Real class data
   - Just using MIT data itself
